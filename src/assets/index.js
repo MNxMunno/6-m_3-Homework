@@ -19,6 +19,9 @@ import team2 from "./images/team-2.png";
 import team3 from "./images/team-3.png";
 import team4 from "./images/team-4.png";
 import team5 from "./images/team-5.png";
+import news1 from "./images/news-1.png";
+import news2 from "./images/news-2.png";
+import news3 from "./images/news-3.png";
 
 export {
   logo,
@@ -42,4 +45,7 @@ export {
   team3,
   team4,
   team5,
+  news1,
+  news2,
+  news3,
 };
