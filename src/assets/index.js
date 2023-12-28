@@ -1,4 +1,5 @@
 import logo from "./images/logo.svg";
+import logo2 from "./images/logo-2.png";
 import bgImg from "./images/hero-bg-img.png";
 import company from "./images/company-img.png";
 import sertificat_1 from "./images/sertificat-1.png";
@@ -48,4 +49,5 @@ export {
   news1,
   news2,
   news3,
+  logo2,
 };
