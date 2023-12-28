@@ -88,6 +88,9 @@
           font-style: normal;
           font-weight: 500;
           line-height: 13px; /* 100% */
+          & + a {
+            padding-top: 8px;
+          }
         }
         &:hover {
           border-radius: 8px;
@@ -112,6 +115,7 @@
       font-weight: 400;
       line-height: 20px; /* 133.333% */
       padding: 10px 20px;
+      transition: 0.4s;
       &:hover {
         background: #ef7c00;
         color: #fff;
