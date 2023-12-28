@@ -11,6 +11,14 @@ import pro2 from "./images/pro-2.png";
 import pro3 from "./images/pro-3.png";
 import pro4 from "./images/pro-4.png";
 import pro5 from "./images/pro-5.png";
+import info_img from "./images/info-img.png";
+import user from "./images/user.svg";
+import tel from "./images/tel.svg";
+import team1 from "./images/team-1.png";
+import team2 from "./images/team-2.png";
+import team3 from "./images/team-3.png";
+import team4 from "./images/team-4.png";
+import team5 from "./images/team-5.png";
 
 export {
   logo,
@@ -26,4 +34,12 @@ export {
   pro3,
   pro4,
   pro5,
+  info_img,
+  user,
+  tel,
+  team1,
+  team2,
+  team3,
+  team4,
+  team5,
 };
